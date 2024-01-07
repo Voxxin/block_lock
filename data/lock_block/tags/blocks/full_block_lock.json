@@ -1,0 +1,24 @@
+{
+    "values": [
+        "composter",
+        "crafting_table",
+        "cartography_table",
+        "fletching_table",
+        "cauldron",
+        "smithing_table",
+        "loom",
+        "note_block",
+        "decorated_pot",
+        "respawn_anchor",
+        "hopper",
+        "spawner",
+        "dropper",
+        "dispenser",
+        "beacon",
+        "lodestone",
+        "#minecraft:beehives",
+        "bee_nest",
+        "chiseled_bookshelf",
+        "#minecraft:redstone_ores"
+    ]
+  }

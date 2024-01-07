@@ -1,0 +1,23 @@
+{
+  "values": [
+    "minecraft:bell",
+    "minecraft:brewing_stand",
+    "minecraft:enchanting_table",
+    "minecraft:cake",
+    "minecraft:lever",
+    "lectern",
+
+    "#minecraft:campfires",
+    "#minecraft:candle_cakes",
+    "#minecraft:flower_pots",
+    "#minecraft:trapdoors",
+    "#minecraft:fence_gates",
+    "#minecraft:doors",
+    "#minecraft:buttons",
+    "#minecraft:anvil",
+    "#minecraft:buttons",
+    "#lock_block:full_block_lock",
+    "#lock_block:blocks_43750",
+    "#lock_block:blocks_1px"
+  ]
+}
