@@ -1,0 +1,2 @@
+scoreboard players reset * lock_block_raycast.carrot_on_a_stick
+function lock_block_raycast:fire

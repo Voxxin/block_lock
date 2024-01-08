@@ -1,0 +1,3 @@
+scoreboard objectives remove lock_block_raycast.carrot_on_a_stick
+scoreboard objectives remove lock_block_raycast
+scoreboard objectives add lock_block.configs dummy
