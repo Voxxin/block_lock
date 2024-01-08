@@ -8,6 +8,7 @@ execute if block ~ ~ ~ #minecraft:flower_pots run summon interaction ~ ~ ~ {widt
 
 execute if block ~ ~ ~ #minecraft:trapdoors run function lock_block:func/block/trapdoors 
 
+execute if block ~ ~ ~ #lock_block:chests run function lock_block:func/block/chests
 
 execute if block ~ ~ ~ #minecraft:doors run function lock_block:func/block/doors
 execute if block ~ ~ ~ #minecraft:fence_gates run function lock_block:func/block/fence_gates

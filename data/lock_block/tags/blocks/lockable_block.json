@@ -5,7 +5,7 @@
     "minecraft:enchanting_table",
     "minecraft:cake",
     "minecraft:lever",
-    "lectern",
+    "minecraft:lectern",
 
     "#minecraft:campfires",
     "#minecraft:candle_cakes",
@@ -18,6 +18,7 @@
     "#minecraft:buttons",
     "#lock_block:full_block_lock",
     "#lock_block:blocks_43750",
-    "#lock_block:blocks_1px"
+    "#lock_block:blocks_1px",
+    "#lock_block:chests"
   ]
 }
