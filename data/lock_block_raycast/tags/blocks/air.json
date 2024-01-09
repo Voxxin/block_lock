@@ -19,6 +19,6 @@
 		"#minecraft:tall_flowers",
 		"minecraft:void_air",
 		"#minecraft:wall_signs",
-		"#raycast:partial"
+		"#lock_block_raycast:partial"
 	]
 }
