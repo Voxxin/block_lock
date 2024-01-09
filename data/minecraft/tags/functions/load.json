@@ -1,5 +1,5 @@
 {
     "values": [
-        "lock_block:load"
+        "lock_block:load", "lock_block_raycast:init"
     ]
 }
